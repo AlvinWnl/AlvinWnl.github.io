@@ -14,7 +14,7 @@
     color: rgb(45, 237, 141);
     }
     body{
-    backgroud-color: rgb(156, 142, 242);
+    backgroud-color: rgb(122, 104, 237);
     }
     p{
     color: rgb(77, 186, 15);
