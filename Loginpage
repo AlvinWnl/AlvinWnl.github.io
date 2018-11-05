@@ -1,13 +1,20 @@
+<html>
 <head>
 <title>
 Login page
 </title>
 </head>
 <style>
-
+body {
+background-color: rgb(252,172,13);
+}
+h1 {
+color: rgb(45,237,141);
+}
+</style>
 <body>
-<h1 style=";text-align="center";font-size:20pt;
-color:#00FF00;>
+<h1 style="font-family:algerian;text-align="center";font-size:50pt;
+;>
 Simple Login Page
 </h1>
 <form name="login">
@@ -20,9 +27,9 @@ Password<input type="password" name="pswrd"/>
 function check(form)/*function to check userid & password*/
 {
  /*the following code checkes whether the entered userid and password are matching*/
- if(form.userid.value == "alvinwang" && form.pswrd.value == "nbnbnb")
+ if(form.userid.value == "alvinwang" && form.pswrd.value == "alvinnb")
   {
-    window.open('https://alvinwnl.github.io/Detail Page')/*opens the target page while Id & password matches*/
+    window.open('https://www.w3schools.com/js/tryit.asp?filename=tryjson_array_modify')/*opens the target page while Id & password matches*/
   }
  else
  {
