@@ -15,7 +15,7 @@ color: rgb(45,237,141);
 <body>
 <h1 style="font-family:algerian;text-align="center";font-size:50pt;
 ;>
-Simple Login Page
+MAYDAY LOGIN
 </h1>
 <form name="login">
 Username<input type="text" name="userid"/>
