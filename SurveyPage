@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+</head>
+<style>
+body{
+background-color:rgb(45,237,141);
+}
+</style>
 <body>
 
 <p>Select your favorite song in this MayDay album
