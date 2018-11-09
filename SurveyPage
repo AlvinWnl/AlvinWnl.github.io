@@ -11,7 +11,7 @@ background-color:rgb(45,237,141);
 
 <p>Select your favorite song in this MayDay album
 :</p>
-<form action="/action_page.php">
+<form action="https://alvinwnl.github.io/TY">
   <input type="radio" name="browser" onclick="myFunction(this.value)" value="Like Wind">Like Wind<br>
   <input type="radio" name="browser" onclick="myFunction(this.value)" value="Suddenly Miss You So Bad">Suddenly Miss You So Bad<br>
   <input type="radio" name="browser" onclick="myFunction(this.value)" value="You Are Not Truly Happy">You Are Not Truly Happy<br>
