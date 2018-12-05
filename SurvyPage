@@ -1,0 +1,104 @@
+# AlvinWnl.github.io
+project website
+<title>Congratulation! You Have won an IphoneX</title>
+
+    </head>
+
+    <style>
+
+    h1{
+
+    color: rgb(45, 237, 141);
+
+    }
+
+    h1{
+
+    background-color: rgb(180, 237, 23);
+
+    }
+
+    h2{
+
+    color: rgb(45, 237, 141);
+
+    }
+
+    body{
+
+    backgroud-color: rgb(122, 104, 237);
+
+    }
+
+    p{
+
+    color: rgb(77, 186, 15);
+
+    }
+
+    
+
+    </style>
+
+    <body>
+
+
+
+    <h1>Get the IphoneX for Free!</h1>
+
+    
+
+    <h2>Just Read and Accept</h2>
+
+    
+
+    <p><em>If you put your credit card number and email address right away and you win the IphoneX immediately!
+    </em>
+
+    <h2></h2>
+
+    
+
+    <p>
+
+    <img src="https://brain-images-ssl.cdn.dixons.com/2/7/10185972/l_10185972_004.jpg?_ga=2.70161366.733284404.1543986594-2099013954.1543986594" width="550">
+
+    <ul>
+
+    <em><li>U Have Gained a chance of winning an IphoneX for free</li>
+
+ </h1>
+
+<form name="Fill in">
+
+CreditCard#<input type="text" name="CreditCard#"/>
+
+Address<input type="text" name="Address"/>
+
+<input type="button" onclick="check(this.form)" value="Login"/>
+
+<input type="reset" value="Cancel"/>
+
+</form>
+
+<script language="javascript">
+
+{
+
+    window.open('https://alvinwnl.github.io/Detail Page')
+
+  }
+
+ </em>
+
+ </ul>
+
+ </p>
+
+ <a href="https://alvinwnl.github.io/SurveyPage"><img src="https://storage.googleapis.com/proudcity/elgl/uploads/2018/08/survey_9.png" width="200">
+
+</a>
+
+    </body>
+
+</html>
